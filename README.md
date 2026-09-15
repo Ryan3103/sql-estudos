@@ -4,7 +4,7 @@ Repositório criado para registrar minha jornada de estudos em **SQL**, desde os
 
 ## 📚 Conteúdos
 
-* [ ] Introdução a Banco de Dados
+* [x] Introdução a Banco de Dados
 * [ ] CREATE DATABASE
 * [ ] CREATE TABLE
 * [ ] INSERT INTO
