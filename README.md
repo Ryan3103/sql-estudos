@@ -5,14 +5,14 @@ Repositório criado para registrar minha jornada de estudos em **SQL**, desde os
 ## 📚 Conteúdos
 
 * [x] Introdução a Banco de Dados
-* [ ] CREATE DATABASE
-* [ ] CREATE TABLE
+* [x] CREATE DATABASE
+* [x] CREATE TABLE
 * [ ] INSERT INTO
-* [ ] SELECT
-* [ ] WHERE
-* [ ] UPDATE
+* [x] SELECT
+* [x] WHERE
+* [x] UPDATE
 * [ ] DELETE
-* [ ] ORDER BY
+* [x] ORDER BY
 * [ ] COUNT, SUM, AVG, MIN e MAX
 * [ ] GROUP BY
 * [ ] PRIMARY KEY
