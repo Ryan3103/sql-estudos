@@ -7,7 +7,7 @@ Repositório criado para registrar minha jornada de estudos em **SQL**, desde os
 * [x] Introdução a Banco de Dados
 * [x] CREATE DATABASE
 * [x] CREATE TABLE
-* [ ] INSERT INTO
+* [x] INSERT INTO
 * [x] SELECT
 * [x] WHERE
 * [x] UPDATE
