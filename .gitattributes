@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.sql linguist-language=SQL
+=======
+.sql linguist-language=SQL
+>>>>>>> 4ce92d5b00f35f75db0009cdf155e84041047d4e
