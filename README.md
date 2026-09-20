@@ -13,7 +13,7 @@ Repositório criado para registrar minha jornada de estudos em **SQL**, desde os
 * [x] UPDATE
 * [x] DELETE
 * [x] ORDER BY
-* [ ] COUNT, SUM, AVG, MIN e MAX
+* [x] COUNT, SUM, AVG, MIN e MAX
 * [ ] GROUP BY
 * [ ] PRIMARY KEY
 * [ ] FOREIGN KEY
