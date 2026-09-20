@@ -11,7 +11,7 @@ Repositório criado para registrar minha jornada de estudos em **SQL**, desde os
 * [x] SELECT
 * [x] WHERE
 * [x] UPDATE
-* [ ] DELETE
+* [x] DELETE
 * [x] ORDER BY
 * [ ] COUNT, SUM, AVG, MIN e MAX
 * [ ] GROUP BY
