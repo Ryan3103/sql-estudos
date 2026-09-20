@@ -1,3 +1,4 @@
+-- SELECT
 
 SELECT * FROM produtos;
 
@@ -19,6 +20,8 @@ SELECT * FROM produtos
 WHERE preco >= 20 AND preco <= 100
 ORDER BY preco DESC;
 
+--UPDATE
+
 UPDATE produtos
 SET preco = 24.90
 WHERE id = 1;
@@ -36,6 +39,8 @@ UPDATE produtos
 SET preco = preco + 5.0
 WHERE categoria = 'Acessórios';
 
+--DELETE
+
 DELETE FROM produtos
 WHERE id = 8;
 
@@ -44,3 +49,25 @@ WHERE id = 2;
 
 DELETE FROM produtos
 WHERE estoque < 20;
+
+--Funções de agregação
+
+SELECT COUNT(*) FROM produtos;
+
+SELECT COUNT(*) FROM produtos
+WHERE preco > 50;
+
+SELECT COUNT(*) FROM produtos
+WHERE categoria = 'Eletrônicos';
+
+SELECT SUM(estoque) FROM produtos;
+
+SELECT SUM(estoque)
+FROM produtos
+WHERE categoria = 'Eletrônicos';
+
+SELECT AVG(preco) FROM produtos;
+
+SELECT MIN(preco) FROM produtos;
+
+SELECT MAX(preco) FROM produtos;
