@@ -35,3 +35,12 @@ WHERE id = 6;
 UPDATE produtos
 SET preco = preco + 5.0
 WHERE categoria = 'Acessórios';
+
+DELETE FROM produtos
+WHERE id = 8;
+
+DELETE FROM produtos 
+WHERE id = 2;
+
+DELETE FROM produtos
+WHERE estoque < 20;

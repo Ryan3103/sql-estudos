@@ -17,7 +17,6 @@ INSERT INTO produtos VALUE (6, 'Teclado', 'Eletrônicos', 119.90, 20);
 INSERT INTO produtos VALUE (7, 'Garrafa', 'Acessórios', 35.00, 40);
 INSERT INTO produtos VALUE (8, 'Pasta Escolar', 'Papelaria', 19.90, 35);
 
-
 SELECT * FROM produtos;
 
 SELECT nome, preco FROM produtos;
