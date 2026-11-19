@@ -41,7 +41,6 @@ sql-estudos/
 ├── 03-banco-de-dados/
 └── README.md
 ```
-
 ## 📈 Progresso
 
 Este repositório será atualizado conforme eu avanço nos estudos e exercícios de SQL.
